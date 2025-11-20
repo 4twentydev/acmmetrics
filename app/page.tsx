@@ -452,24 +452,6 @@ export default async function Home() {
 
           <div className="space-y-4">
             <div className="rounded-3xl border border-white/10 bg-slate-900 p-6 shadow-sm shadow-black/10">
-              <h3 className="text-lg font-semibold text-white">Shop / unnamed labor</h3>
-              <p className="mt-1 text-sm text-slate-400">Biggest dual-credit gap happens in 2023 when tracking was spotty.</p>
-              <dl className="mt-4 space-y-3 text-sm">
-                <div className="flex items-center justify-between">
-                  <dt className="text-slate-400">2023 shop ACM</dt>
-                  <dd className="font-semibold text-white">953 panels</dd>
-                </div>
-                <div className="flex items-center justify-between">
-                  <dt className="text-slate-400">2023 shop Seal & stack</dt>
-                  <dd className="font-semibold text-white">1,430 panels</dd>
-                </div>
-                <div className="flex items-center justify-between">
-                  <dt className="text-slate-400">2025 shop ACM</dt>
-                  <dd className="font-semibold text-white">1 panel</dd>
-                </div>
-              </dl>
-            </div>
-            <div className="rounded-3xl border border-white/10 bg-slate-900 p-6 shadow-sm shadow-black/10">
               <h3 className="text-lg font-semibold text-white">ACM heroes call-out</h3>
               <ul className="mt-3 list-disc space-y-2 pl-5 text-sm text-slate-300">
                 <li>Robert Hutchinson sits #2 all-time</li>

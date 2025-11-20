@@ -24,11 +24,6 @@ export default async function LoginPage() {
             <code className="mx-1 rounded bg-zinc-100 px-1 py-0.5 text-sm dark:bg-zinc-800">
               lastname-firstname
             </code>
-            . Default password for all crew + leadership (except Brandon) is
-            <code className="mx-1 rounded bg-zinc-100 px-1 py-0.5 text-sm dark:bg-zinc-800">
-              620Harlan
-            </code>
-            . Brandon York has an admin-only password.
           </p>
         </div>
         <LoginForm />
